@@ -7,6 +7,7 @@ import HomePage from './Components/HomePage';
 export default function App() {
     return (
         <SafeAreaProvider>
+            {/* Find Buddy page */}
             <HomePage />
         </SafeAreaProvider>
     );
